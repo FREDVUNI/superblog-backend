@@ -1,0 +1,19 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+Client ID: 1
+Client secret: L4r5Agpxz6fnuW1NVK6xmWg9PRiL85xWyLukedaQ
+Password grant client created successfully.
+Client ID: 2
+Client secret: cQRjK5xKbpGvvBrgtxtg0C25rSRIWXzIqRmYYtfp
